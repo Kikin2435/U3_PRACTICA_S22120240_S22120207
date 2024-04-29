@@ -1,0 +1,50 @@
+/*
+        Integrantes:                            No.Control:
+        Angel Eduardo Diosdado Gutierrez        s22120240
+        Francisco Javier Jacob Garcia           s22120207
+*/
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Banner {
+  background-color: rgb(27, 57, 106);
+  padding: 1.5rem;
+  margin: 20px 10px 2px 1px;
+  padding: 0px;
+  color: rgb(255, 255, 255);
+}
+
+.Marca {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(27, 57, 106);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  color: #fff;
+  z-index: 999;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h10 {
+  font-size: 1.5rem; /* Reducir el tamaño de fuente */
+}
+
+.contenedor {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
